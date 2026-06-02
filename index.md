@@ -3,8 +3,8 @@
 **Effective Date:** June 1, 2026
 **Last Updated:** June 1, 2026
 **App Name:** Baseball Mechanics
-**Developer / Data Controller:** Jordan Stotts
-**Contact:** fixnetworkpc@gmail.com
+**Developer / Data Controller:** Developer: Baseball Mechanics Support
+**Contact:** BaseballMSupport@gmail.com
 
 ---
 
@@ -205,9 +205,9 @@ Your continued use of the App after any changes to this policy constitutes your 
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact:
 
-**Jordan Stotts**
+**Developer: Baseball Mechanics Support**
 Developer, Baseball Mechanics
-Email: **fixnetworkpc@gmail.com**
+Email: **BaseballMSupport@gmail.com**
 
 We will respond to all inquiries within 30 days.
 
