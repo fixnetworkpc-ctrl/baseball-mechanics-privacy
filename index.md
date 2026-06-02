@@ -6,6 +6,8 @@
 **Developer / Data Controller:** Developer: Baseball Mechanics Support
 **Contact:** BaseballMSupport@gmail.com
 
+[View Terms of Service](terms)
+
 ---
 
 ## Introduction
