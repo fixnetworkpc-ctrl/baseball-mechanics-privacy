@@ -1,7 +1,7 @@
 # Privacy Policy — Baseball Mechanics
 
 **Effective Date:** June 1, 2026
-**Last Updated:** June 1, 2026
+**Last Updated:** June 3, 2026
 **App Name:** Baseball Mechanics
 **Developer / Data Controller:** Developer: Baseball Mechanics Support
 **Contact:** BaseballMSupport@gmail.com
@@ -123,21 +123,28 @@ We do not maintain a database of your analyses or personal information on our se
 
 ## 5. Children's Privacy
 
-### 5.1 Age Requirement
+### 5.1 Who This App Is Designed For
 
-The App is designed for use by players of all ages, including children under the age of 13. However, **the App does not require users to provide an email address**, and we strongly encourage parents and guardians to review this policy and supervise their child's use of the App.
+Baseball Mechanics is primarily designed for use by **coaches, parents, and guardians** who analyze the baseball mechanics of players they work with or care for. The App is not directed at children under 13 as its primary audience. Children under 13 may use the App under direct parental or guardian supervision, but the App is not intended to be used independently by children under 13.
 
-### 5.2 Parental Consent for Email Collection
+**The App does not require users to provide an email address.** Email collection is entirely optional and used solely to deliver analysis results. The App functions fully without an email address being provided.
 
-If a child under the age of 13 wishes to receive analysis results via email, a parent or legal guardian must provide the email address on the child's behalf and must consent to the child's use of this feature. By entering an email address for a child under 13, you represent that you are the parent or legal guardian and consent to our use of that email address as described in this policy.
+### 5.2 COPPA Compliance
 
-### 5.3 Parental Rights
+This App is designed to comply with the **Children's Online Privacy Protection Act (COPPA)**. Specifically:
 
-If you believe your child under the age of 13 has provided personal information to the App without your consent, or if you wish to review or delete any such information, please contact us at **fixnetworkpc@gmail.com**. We will respond to such requests within 30 days and take appropriate action.
+- The App **does not knowingly collect personal information from children under 13** without verifiable parental consent.
+- Email addresses are **optional** and are used only to deliver analysis reports — never for marketing, profiling, or any other purpose.
+- We do not share, sell, or disclose any information collected through the App to third parties for commercial purposes.
+- If we become aware that we have inadvertently collected personal information from a child under 13 without appropriate parental consent, we will delete it promptly upon notification.
 
-### 5.4 COPPA Compliance
+### 5.3 Parental Consent for Email Collection
 
-This App is designed to comply with the **Children's Online Privacy Protection Act (COPPA)**. We do not knowingly collect personal information from children under 13 without verifiable parental consent. If we become aware that we have inadvertently collected such information without appropriate consent, we will delete it promptly.
+If a child under the age of 13 will have analysis results emailed, a parent or legal guardian must provide the email address on the child's behalf. By entering an email address for a child under 13, you represent that you are the parent or legal guardian and consent to our use of that email address as described in this policy.
+
+### 5.4 Parental Rights
+
+If you believe your child under the age of 13 has provided personal information to the App without your consent, or if you wish to review or delete any such information, please contact us at **BaseballMSupport@gmail.com**. We will respond to such requests within 30 days and take appropriate action.
 
 ---
 
