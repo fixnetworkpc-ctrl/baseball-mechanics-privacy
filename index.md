@@ -1,7 +1,7 @@
 # Privacy Policy — Baseball Mechanics
 
 **Effective Date:** June 1, 2026
-**Last Updated:** July 14, 2026
+**Last Updated:** July 21, 2026
 **App Name:** Baseball Mechanics
 **Developer / Data Controller:** Jordan Stotts, developer and operator of Baseball Mechanics
 **Contact:** mechanicssupport@gmail.com
@@ -23,7 +23,7 @@ This policy explains what we collect, where it is stored, who processes it, and 
 ### 1.1 Information You Provide at Setup
 
 - **Player name** (required) — personalizes analysis reports.
-- **Player age** (required) — determines age-appropriate coaching language and triggers the protections in Section 5. Age is required precisely *because* the protections in Section 5 are impossible to apply to a player whose age we never asked for.
+- **Player date of birth** (required) — used to calculate the player's age, which determines age-appropriate coaching language and triggers the protections in Section 5. A date of birth is required precisely *because* the protections in Section 5 are impossible to apply to a player whose age we never established.
 - **Role** (player, coach, or parent).
 - **Email address** (optional for players 13 and over; **required** for under-13 accounts, where it must be the parent's or guardian's — see Section 5).
 - **Marketing preference** — whether you ticked the optional box to receive product-update emails. It is off unless you turn it on.
@@ -125,9 +125,9 @@ You can change the visibility or delete the profile at any time. Lowering the vi
 
 **Baseball Mechanics is used to analyze children, and we designed this section on the assumption that the player is a minor unless we know otherwise.**
 
-### 5.1 Age is required
+### 5.1 Date of birth is required
 
-We ask for the player's age at setup and it cannot be skipped. If we do not know a player's age, we apply the **stricter** treatment, not the looser one — an unknown age is treated as a child.
+We ask for the player's date of birth at setup and it cannot be skipped; we use it to calculate the player's age. Whether a player is under 13 is determined from this date of birth, and that determination is calculated and enforced on our servers, not left to the app alone. If we cannot establish a player's age, we apply the **stricter** treatment, not the looser one — an unknown age is treated as a child.
 
 ### 5.2 How a parent or guardian gives verifiable consent.
 
