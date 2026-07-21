@@ -129,14 +129,15 @@ You can change the visibility or delete the profile at any time. Lowering the vi
 
 We ask for the player's age at setup and it cannot be skipped. If we do not know a player's age, we apply the **stricter** treatment, not the looser one — an unknown age is treated as a child.
 
-### 5.2 Under-13 accounts must be owned by a parent or guardian
+### 5.2 How a parent or guardian gives verifiable consent.
 
-If the player is under 13, the account can only be created by a parent or legal guardian, who must:
+If the player is under 13, the account can only be set up by a parent or legal guardian. Setup does not activate the account. Instead:
 
-1. **Confirm they are the parent or legal guardian** of that player, and
-2. **Provide their own email address**, which becomes the owner of the account.
+1. The guardian provides their own email address, which becomes the owner of the account and must be verified by a one-time code we email at sign-in.
+2. We then email that address a unique, single-use confirmation link. The account stays locked and cannot be used until the guardian clicks it. Clicking the link is the guardian's verifiable consent, and we record the date and time it occurred.
+3. Shortly after, we send a second confirmation email to the same address, which also contains a link to withdraw consent at any time.
 
-We record that consent, and the date it was given, as verifiable parental consent under COPPA. The guardian's email is the address that owns the account and the address from which a deletion request will be honored.
+This "email-plus" process is a verifiable parental consent method permitted under COPPA because a child's information in this App is never disclosed publicly — every under-13 player is restricted to coach-only visibility (see Section 5.1). Until a guardian completes step 2, no analysis, profile, or other data for that player is used beyond what is strictly necessary to hold the pending account.
 
 ### 5.3 Under-13 players are never published
 
@@ -149,7 +150,7 @@ We do not send marketing email to children. The only address on an under-13 acco
 ### 5.5 Parental rights
 
 A parent or guardian may review or delete their child's data at any time by emailing **mechanicssupport@gmail.com** from the guardian address on the account. We respond within 30 days. If we learn we have collected personal information from a child under 13 without parental consent, we delete it promptly.
-
+A guardian may also withdraw consent instantly using the link in the confirmation email, or from within the app's pending-consent screen; doing so locks and then deletes the child's account and data.
 ---
 
 ## 6. Data Retention
