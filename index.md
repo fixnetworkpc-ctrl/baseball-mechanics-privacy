@@ -1,12 +1,12 @@
 # Privacy Policy — Baseball Mechanics
 
 **Effective Date:** June 1, 2026
-**Last Updated:** August 17, 2026
+**Last Updated:** August 20, 2026
 **App Name:** Baseball Mechanics
 **Developer / Data Controller:** Jordan Stotts, developer and operator of Baseball Mechanics
 **Contact:** mechanicssupport@gmail.com
 
-[View Terms of Service](https://fixnetworkpc-ctrl.github.io/baseball-mechanics-tos/)
+[View Terms of Service](https://fixnetworkpc-ctrl.github.io/baseball-mechanics-tos/) | [Delete Your Account](https://fixnetworkpc-ctrl.github.io/baseball-mechanics-privacy/delete-account)
 
 ---
 
@@ -234,7 +234,7 @@ No system is perfectly secure, and we cannot guarantee absolute security.
 **Everyone:**
 
 - **Access** — email us for a copy of your data.
-- **Deletion** — email us and we will delete your account and its cloud data. Uninstalling removes the local copy but **not** the cloud copy.
+- **Deletion** — [request account deletion](https://fixnetworkpc-ctrl.github.io/baseball-mechanics-privacy/delete-account), in the app or by email, and we will delete your account and its cloud data. Uninstalling removes the local copy but **not** the cloud copy.
 - **Correction** — edit your profile in the App.
 - **Withdraw marketing consent** — email us; it takes effect immediately.
 - **Control recruiting visibility** — change it or delete the profile in the App at any time (Section 4).
