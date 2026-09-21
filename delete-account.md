@@ -3,7 +3,7 @@
 **App Name:** Baseball Mechanics
 **Developer:** Jordan Stotts, developer and operator of Baseball Mechanics
 **Contact:** mechanicssupport@gmail.com
-**Last Updated:** August 20, 2026
+**Last Updated:** September 21, 2026
 
 [View Privacy Policy](https://fixnetworkpc-ctrl.github.io/baseball-mechanics-privacy/) · [View Terms of Service](https://fixnetworkpc-ctrl.github.io/baseball-mechanics-tos/)
 
@@ -68,7 +68,7 @@ uploaded.
 
 | Data | Retention after deletion |
 |---|---|
-| **Diagnostic reports** | Up to **12 months** from when they were created, then deleted. These are crash and error reports used to keep the app working; they are not tied to your profile. |
+| **Diagnostic reports** | Deleted with your account. These are technical error reports used to keep the app working; they carry your account identifier but no name, email address, or player profile information, and are in any case deleted 90 days after they were created. |
 | **Team data owned by someone else** | If you were a member of a team another person created, that team continues to exist. Your own membership and scores are removed with your account. |
 | **Records we are required to keep** | Anything we must retain to meet a legal or accounting obligation, for as long as that obligation lasts. |
 

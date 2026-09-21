@@ -1,7 +1,7 @@
 # Privacy Policy — Baseball Mechanics
 
 **Effective Date:** June 1, 2026
-**Last Updated:** August 20, 2026
+**Last Updated:** September 21, 2026
 **App Name:** Baseball Mechanics
 **Developer / Data Controller:** Jordan Stotts, developer and operator of Baseball Mechanics
 **Contact:** mechanicssupport@gmail.com
@@ -91,7 +91,7 @@ If you purchase a subscription, we store **whether you have an active subscripti
 
 ### 1.9 Diagnostic Information
 
-If the App hits a technical error we receive a report containing the error, the screen it happened on, your OS and app version, and your name and email if you provided one. Used only to fix bugs; never sold, and never used for marketing.
+If the App hits a technical error we receive a report containing the error, the screen or feature it happened on, your device model, operating system, app version and build, and your account identifier. It does not include your name, your email address, or any player profile information. Used only to fix technical problems; never sold, and never used for marketing. Reports are kept for up to 90 days or until you delete your account, whichever comes first.
 
 ### 1.10 How You Found Us
 
@@ -140,12 +140,12 @@ We do **not**:
 | Processor | What it handles | Where |
 |---|---|---|
 | **Anthropic, PBC** — [privacy](https://www.anthropic.com/privacy) | The video frames, for AI analysis. Not retained by Anthropic for training. | US |
-| **Supabase, Inc.** — [privacy](https://supabase.com/privacy) | Our cloud database: your account, profile, analysis history, recruiting, verification and team data. | US |
+| **Supabase, Inc.** — [privacy](https://supabase.com/privacy) | Our cloud database: your account, profile, analysis history, recruiting, verification and team data, and technical error reports. | US |
 | **Render Services, Inc.** — [privacy](https://render.com/privacy) | Backend hosting; your requests pass through it. | US |
 | **Vercel Inc.** — [privacy](https://vercel.com/legal/privacy-policy) | Hosting for our website and the web portal; browser requests to them pass through it. | US |
 | **RevenueCat, Inc.** — [privacy](https://www.revenuecat.com/privacy) | Subscription status. No payment details. | US |
 | **Apple / Google** | Payment processing for subscriptions. We never receive your payment details. | US |
-| **Google (Gmail)** — [privacy](https://policies.google.com/privacy) | Delivering results emails, verification links, and diagnostic reports. | US |
+| **Google (Gmail)** — [privacy](https://policies.google.com/privacy) | Delivering results emails, verification links, and notifications of technical error reports. | US |
 
 We may also disclose information where required by law, or where necessary to protect the rights, property, or safety of our users or the public.
 
@@ -213,7 +213,7 @@ A guardian may also withdraw consent instantly using the link in the confirmatio
 | Team data | Kept while the team exists. |
 | Campaign code | Kept for as long as the account exists. |
 | Local data on your device | Removed when you uninstall the App — **except your sign-in token on iOS**, which the operating system preserves so a reinstall returns you to your own account (Section 1.2). **Cloud data is not removed either** — uninstalling does not delete your account; email us to do that. |
-| Diagnostic reports | Up to 12 months, then deleted. |
+| Diagnostic reports | Up to 90 days, or until you delete your account, whichever comes first. |
 
 ---
 
