@@ -1,7 +1,7 @@
 # Privacy Policy — Baseball Mechanics
 
 **Effective Date:** June 1, 2026
-**Last Updated:** September 21, 2026
+**Last Updated:** September 28, 2026
 **App Name:** Baseball Mechanics
 **Developer / Data Controller:** Jordan Stotts, developer and operator of Baseball Mechanics
 **Contact:** mechanicssupport@gmail.com
@@ -89,6 +89,8 @@ If a coach creates a team, we store the roster and the members' mechanics scores
 
 If you purchase a subscription, we store **whether you have an active subscription and which one**. Payment is handled entirely by Apple or Google — **we never see or store your payment details.**
 
+We also record the steps of an upgrade: that you reached the free-analysis limit, that the upgrade screen opened, which plan button you tapped, and whether the store purchase completed, was cancelled, or failed (with the store's error code). Each step is stored with your account identifier, your subscription platform identifier, the plan and its price, and your platform, app version and build. It contains no name, email address, player information, or video. We use it only to understand where upgrades break or are abandoned. It is never sold and never used for advertising.
+
 ### 1.9 Diagnostic Information
 
 If the App hits a technical error we receive a report containing the error, the screen or feature it happened on, your device model, operating system, app version and build, and your account identifier. It does not include your name, your email address, or any player profile information. Used only to fix technical problems; never sold, and never used for marketing. Reports are kept for up to 90 days or until you delete your account, whichever comes first.
@@ -122,6 +124,7 @@ If you reached us through our website first, that code may be held in a cookie o
 | Verification records | Showing whether a measurable was confirmed by a coach, and what value they confirmed |
 | Coach's email address | Sending the one-time verification link the athlete asked us to send |
 | Subscription status | Unlocking paid features and enforcing usage limits |
+| Upgrade steps | Finding where upgrades fail or are abandoned |
 | Diagnostics | Fixing crashes and bugs |
 | Campaign code | Measuring which outreach brings people to the App |
 
@@ -214,6 +217,7 @@ A guardian may also withdraw consent instantly using the link in the confirmatio
 | Campaign code | Kept for as long as the account exists. |
 | Local data on your device | Removed when you uninstall the App — **except your sign-in token on iOS**, which the operating system preserves so a reinstall returns you to your own account (Section 1.2). **Cloud data is not removed either** — uninstalling does not delete your account; email us to do that. |
 | Diagnostic reports | Up to 90 days, or until you delete your account, whichever comes first. |
+| Upgrade steps | Up to 365 days, or until you delete your account, whichever comes first. |
 
 ---
 
