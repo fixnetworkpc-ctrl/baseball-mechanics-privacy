@@ -1,7 +1,7 @@
 # Privacy Policy — Baseball Mechanics
 
 **Effective Date:** June 1, 2026
-**Last Updated:** September 28, 2026
+**Last Updated:** November 10, 2026
 **App Name:** Baseball Mechanics
 **Developer / Data Controller:** Jordan Stotts, developer and operator of Baseball Mechanics
 **Contact:** mechanicssupport@gmail.com
@@ -85,11 +85,19 @@ A self-entered measurable is a claim. If an athlete wants one confirmed, they ca
 
 If a coach creates a team, we store the roster and the members' mechanics scores so the coach can see team-level progress.
 
-### 1.8 Subscription Status
+### 1.8 Subscription Status and Usage Steps
 
 If you purchase a subscription, we store **whether you have an active subscription and which one**. Payment is handled entirely by Apple or Google — **we never see or store your payment details.**
 
-We also record the steps of an upgrade: that you reached the free-analysis limit, that the upgrade screen opened, which plan button you tapped, and whether the store purchase completed, was cancelled, or failed (with the store's error code). Each step is stored with your account identifier, your subscription platform identifier, the plan and its price, and your platform, app version and build. It contains no name, email address, player information, or video. We use it only to understand where upgrades break or are abandoned. It is never sold and never used for advertising.
+We also record a short, fixed list of **usage steps**, so we can see where people get stuck:
+
+- that the App was opened for the first time, and that setup was finished (with whether an email address was given — **never the address itself**);
+- that a video was chosen, and for which discipline (pitching, hitting or catching);
+- that an analysis was started, and whether it failed (with a short technical reason, such as a timeout);
+- that a session or player comparison was opened;
+- the steps of an upgrade: that you reached the free-analysis limit, that the upgrade screen opened, which plan button you tapped, and whether the store purchase completed, was cancelled, or failed (with the store's error code).
+
+Each step is stored with your account identifier, your subscription platform identifier, the plan and its price where there is one, and your platform, app version and build. It contains **no name, email address, player information, or video**, and nothing about what is in your analysis. We use it only in totals, to understand where the App is hard to use and where upgrades break or are abandoned. It is never sold, never used for advertising, never combined with your campaign code (Section 1.10), and never used to build a profile of you.
 
 ### 1.9 Diagnostic Information
 
@@ -124,7 +132,7 @@ If you reached us through our website first, that code may be held in a cookie o
 | Verification records | Showing whether a measurable was confirmed by a coach, and what value they confirmed |
 | Coach's email address | Sending the one-time verification link the athlete asked us to send |
 | Subscription status | Unlocking paid features and enforcing usage limits |
-| Upgrade steps | Finding where upgrades fail or are abandoned |
+| Usage and upgrade steps | Finding, in totals, where the App is hard to use and where upgrades fail or are abandoned |
 | Diagnostics | Fixing crashes and bugs |
 | Campaign code | Measuring which outreach brings people to the App |
 
@@ -143,7 +151,7 @@ We do **not**:
 | Processor | What it handles | Where |
 |---|---|---|
 | **Anthropic, PBC** — [privacy](https://www.anthropic.com/privacy) | The video frames, for AI analysis. Not retained by Anthropic for training. | US |
-| **Supabase, Inc.** — [privacy](https://supabase.com/privacy) | Our cloud database: your account, profile, analysis history, recruiting, verification and team data, and technical error reports. | US |
+| **Supabase, Inc.** — [privacy](https://supabase.com/privacy) | Our cloud database: your account, profile, analysis history, recruiting, verification and team data, usage and upgrade steps, and technical error reports. | US |
 | **Render Services, Inc.** — [privacy](https://render.com/privacy) | Backend hosting; your requests pass through it. | US |
 | **Vercel Inc.** — [privacy](https://vercel.com/legal/privacy-policy) | Hosting for our website and the web portal; browser requests to them pass through it. | US |
 | **RevenueCat, Inc.** — [privacy](https://www.revenuecat.com/privacy) | Subscription status. No payment details. | US |
@@ -199,6 +207,8 @@ Coach verification of measurables (Section 1.6) is not offered below age 14 at a
 
 We do not send marketing email to children. The only address on an under-13 account is the guardian's, and it receives product-update email only if the guardian themselves opted in.
 
+The usage steps in Section 1.8 are recorded for a child's account as for any other, and only for the same purpose: keeping the App working and finding where it is hard to use. They are never used for advertising, never used to build a profile of the child, and never disclosed to anyone beyond the processors in Section 3.
+
 ### 5.5 Parental rights
 
 A parent or guardian may review or delete their child's data at any time by emailing **mechanicssupport@gmail.com** from the guardian address on the account. We respond within 30 days. If we learn we have collected personal information from a child under 13 without parental consent, we delete it promptly.
@@ -217,7 +227,7 @@ A guardian may also withdraw consent instantly using the link in the confirmatio
 | Campaign code | Kept for as long as the account exists. |
 | Local data on your device | Removed when you uninstall the App — **except your sign-in token on iOS**, which the operating system preserves so a reinstall returns you to your own account (Section 1.2). **Cloud data is not removed either** — uninstalling does not delete your account; email us to do that. |
 | Diagnostic reports | Up to 90 days, or until you delete your account, whichever comes first. |
-| Upgrade steps | Up to 365 days, or until you delete your account, whichever comes first. |
+| Usage and upgrade steps | Up to 365 days, or until you delete your account, whichever comes first. |
 
 ---
 
@@ -245,7 +255,7 @@ No system is perfectly secure, and we cannot guarantee absolute security.
 
 **California residents (CCPA):** you may know what we collect, request deletion, and opt out of sale — **we do not sell personal information** — without being discriminated against for exercising these rights.
 
-**EEA / UK residents (GDPR):** you have rights of access, rectification, erasure, restriction, objection, and portability. Our legal bases are **consent** (email, marketing, recruiting publication, verification), **contract** (delivering the analysis you asked for), and **legitimate interest** (diagnostics, security, and knowing which outreach brought you here). Where the user is a child, consent is given by the holder of parental responsibility.
+**EEA / UK residents (GDPR):** you have rights of access, rectification, erasure, restriction, objection, and portability. Our legal bases are **consent** (email, marketing, recruiting publication, verification), **contract** (delivering the analysis you asked for), and **legitimate interest** (diagnostics, security, finding where the App or an upgrade breaks, and knowing which outreach brought you here). Where the user is a child, consent is given by the holder of parental responsibility.
 
 To exercise any of these, contact **mechanicssupport@gmail.com**.
 
